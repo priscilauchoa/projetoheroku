@@ -1,0 +1,1 @@
+web: gunicorncatalogo_filmes.wsgi
